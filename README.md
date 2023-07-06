@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smart-contech
-- 👀 I’m interested in eCommerce platforms and ERP open source
+- 👀 I’m interested in eCommerce platforms, CRM & ERP open source
 - 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on eCommerce projects
+- 💞️ I’m looking to collaborate on eCommerce, CRM & ERP projects
 - 📫 edgar@smart-contech.com ...
 
 <!---

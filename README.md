@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smart-contech
 - 👀 I’m interested in Cybersecurity, eCommerce, SaaS, CRM & ERP open source
 - 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on Cloud, SaaS, eCommerce, EDI, CRM & ERP projects
+- 💞️ I’m looking to collaborate on Cybersecurity, Cloud, SaaS, eCommerce, EDI, CRM & ERP projects
 - 📫 edgar@smart-contech.com ...
 
 <!---
